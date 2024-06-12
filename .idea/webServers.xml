@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="81f637ec-12d9-48c8-a240-2c16bff6190b" name="HPG-DDP">
+        <fileTransfer rootFolder="/blue/woodard/zhum" accessType="SFTP" host="hpg.rc.ufl.edu" port="22" sshConfigId="32bd5d3a-fadf-4f6a-a5c2-ad19df623b03" sshConfig="zhum@hpg.rc.ufl.edu:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
