@@ -56,6 +56,4 @@ def main():
 
 
 if __name__ == '__main__':
-    num_device = torch.cuda.device_count()
-    world_size = num_device // 2
     main()
